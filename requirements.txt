@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+ultralytics
+opencv-python
+numpy
+av
+lap>=0.5.12
